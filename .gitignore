@@ -1,4 +1,6 @@
 # My additions
+# Avro files
+*.avro
 # target folders
 **/target/
 # .idea folders
